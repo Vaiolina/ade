@@ -66,7 +66,7 @@ Autonomous debugging is coming.
   🔒 Your code never leaves your machine
 </p>
 
----
+ 
 
 ## 📈 Star History
 
@@ -76,7 +76,7 @@ Autonomous debugging is coming.
 
 </p>
 
----
+ 
 
 ## ⚡ Why ADE exists
 
@@ -101,7 +101,7 @@ ADE changes this.
 
 </p>
 
----
+ 
 
 ## 🧬 What ADE does
 
@@ -120,7 +120,7 @@ Result:
 
 </p>
 
----
+ 
 
 ## 🧩 Open-Core
 
@@ -132,7 +132,7 @@ ADE core is:
 
 Enterprise capabilities coming separately.
 
----
+ 
 
 ## 🚀 Installation
 
@@ -142,7 +142,7 @@ Coming soon
 
 </p>
 
----
+ 
 
 ## 🧭 Current Status
 
@@ -153,7 +153,7 @@ Coming soon
 
 </p>
 
----
+ 
 
 ## 🧠 Philosophy
 
@@ -168,7 +168,7 @@ Not a code generator.
 
 </p>
 
----
+ 
 
 ## 🤝 Contributing
 
@@ -176,13 +176,13 @@ We welcome contributors.
 
 Help build the future of debugging.
 
----
+ 
 
 ## 📄 License
 
 MIT
 
----
+ 
 
 ## ⭐ Support
 
